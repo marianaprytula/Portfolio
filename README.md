@@ -5,16 +5,6 @@ This repository showcases my projects in data analysis, visualization, and busin
 
 ---
 
-## About Me
-
-| Field              | Details |
-|--------------------|---------|
-| **Name Surname**   | Marianna Prytula|
-| **For Role**       | Data Analyst |
-| **Location**       | Warsaw, Poland |
-| **Email**          | mariannapritula@gmail.com |
-
----
 
 ## Skills
 
@@ -27,6 +17,7 @@ This repository showcases my projects in data analysis, visualization, and busin
 | **Other** | Git, Statistics (descriptive statistics, probability theory), A/B Testing |
 
 ---
+
 ## Projects
 
 | Project | Description | Tools | Repository/Link |
