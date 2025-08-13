@@ -42,9 +42,9 @@ This repository showcases my projects in data analysis, visualization, and busin
 
 | Course Name| Provider | % of Completion |
 |-------------|----------|------|
-| Complete Data Analyst Bootcamp From Basics To Advanced | Udemy | 85% (~73 hours of 85) |
-| Complete Data Science Training: Math, Statistics, Python, Advanced Statistics in Python, Machine and Deep Learning | Udemy | 22% (~7 hours of 32)<br>Focused on the Descriptive statistics and Probability theory. |
-| Master the theory, practice, and math behind Data Science, Machine Learning, Deep Learning, NLP with end-to-end projects | Udemy | 57% (~56 hours of 99)<br>Focused on the Descriptive and Inferential statistics, Probability theory, Distribution Functions, Feature Engineering, and Machine learning for the classification tasks. |
+| Complete Data Analyst Bootcamp From Basics To Advanced | [Udemy](https://ua.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/learn/lecture/45849067#overview) | 85% (~73 hours of 85) |
+| Complete Data Science Training: Math, Statistics, Python, Advanced Statistics in Python, Machine and Deep Learning | [Udemy](https://ua.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/learn/lecture/10772510#overview) | 22% (~7 hours of 32)<br>Focused on the Descriptive statistics and Probability theory. |
+| Master the theory, practice, and math behind Data Science, Machine Learning, Deep Learning, NLP with end-to-end projects | [Udemy](https://ua.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/learn/lecture/43986716#overview) | 57% (~56 hours of 99)<br>Focused on the Descriptive and Inferential statistics, Probability theory, Distribution Functions, Feature Engineering, and Machine learning for the classification tasks. |
 
 Examples of a few Power BI Projects done during the courses:
 <br><br>[View Loan Dataset Analysis](https://github.com/marianaprytula/Loan_dataset_analysis)
