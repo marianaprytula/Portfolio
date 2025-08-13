@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 
 
-This repository showcases my projects in data analysis, visualization, and business insights, utilizing **T-SQL, Python, Power BI, Tableau, and Excel**.
+This repository showcases my projects in data analysis, visualization, and business insights, utilizing **SQL, Python, Power BI, Tableau, and Excel**.
 
 ---
 
@@ -31,10 +31,10 @@ This repository showcases my projects in data analysis, visualization, and busin
 
 | Project | Description | Tools | Repository/Link |
 |---------|-------------|-------|-----------------|
-| **Power BI and utilizing SQL Projects** | Creating queries in Microsoft SQL Server to preprocess and analyze datasets, utilizing aggregation functions, and different types of joins. Power BI is used to understand the dataset's content using multiple visuals provided on the dashboards. | Power BI, SQL/MySQL | [View Brazilian E-Commerce Public Dataset Analysis Project](https://github.com/marianaprytula/E-commerce_insights)<br>[View Retail Dataset Analysis Project](https://github.com/marianaprytula/Online_Retail_insights)<br>[View Telco Customer Churn Dataset Insights Project](https://github.com/marianaprytula/Telco_Customer_Churn_Analysis) |
-| **Tableau Projects** | EDA, analysis of datasets using visuals and dashboards. |  Tableau / Tableau Prep Builder, MSSQL/MySQL | [View Consumer Behavior and Shopping Habits Project](https://github.com/marianaprytula/Consumer_Behavior_and_Shopping_Habits_Dataset_Analysis)<br>[View Youtube Statistics Dataset Analysis Project](https://github.com/marianaprytula/Youtube_Data_Insights)<br>[View New York City Airbnb Open Data Analysis Project](https://github.com/marianaprytula/New_York_City_Airbnb_Open_Data_Analysis-) |
-| **Python Projects** | EDA, created visuals using the seaborn, matplotlib libraries. | Python, Pandas, Numpy, Seaborn, Matplotlib | [View Melbourne Housing Analysis Project](https://github.com/marianaprytula/Melbourne_Housing_Insights),<br>[View IBM HR Analytics Project](https://github.com/marianaprytula/IBM_HR_Analytics),<br>[View Superstore Dataset Analysis](https://github.com/marianaprytula/Superstore_Dataset_Analysis) |
-| **Excel Projects** | EDA, Data Modeling with Multiple Tables, Pivot tables, DAX measures, interactive dashboards. | Excel | [View Medical_Appointment_No_Shows_Analysis Project](https://github.com/marianaprytula/Medical_Appointment_No_Shows_Analysis),<br>[View Online Ordering Platform Orders Dataset Analysis Project](https://github.com/marianaprytula/Ding_Tav_Fung_x_Online_Ordering_Platform_Orders_Analysis) |
+| **Power BI and utilizing SQL Projects** | Creating queries in Microsoft SQL Server to preprocess and analyze datasets, utilizing aggregation functions, and different types of joins. Power BI is used to understand the dataset's content using multiple visuals provided on the dashboards. | Power BI, SQL/MySQL | [View Brazilian E-Commerce Public Dataset Analysis Project](https://github.com/marianaprytula/E-commerce_insights)<br><br>[View Retail Dataset Analysis Project](https://github.com/marianaprytula/Online_Retail_insights)<br><br>[View Telco Customer Churn Dataset Insights Project](https://github.com/marianaprytula/Telco_Customer_Churn_Analysis) |
+| **Tableau Projects** | EDA, analysis of datasets using visuals and dashboards. |  Tableau / Tableau Prep Builder, MSSQL/MySQL | [View Consumer Behavior and Shopping Habits Project](https://github.com/marianaprytula/Consumer_Behavior_and_Shopping_Habits_Dataset_Analysis)<br><br>[View Youtube Statistics Dataset Analysis Project](https://github.com/marianaprytula/Youtube_Data_Insights)<br><br>[View New York City Airbnb Open Data Analysis Project](https://github.com/marianaprytula/New_York_City_Airbnb_Open_Data_Analysis-) |
+| **Python Projects** | EDA, created visuals using the seaborn, matplotlib libraries. | Python, Pandas, Numpy, Seaborn, Matplotlib | [View Melbourne Housing Analysis Project](https://github.com/marianaprytula/Melbourne_Housing_Insights),<br><br>[View IBM HR Analytics Project](https://github.com/marianaprytula/IBM_HR_Analytics),<br><br>[View Superstore Dataset Analysis](https://github.com/marianaprytula/Superstore_Dataset_Analysis) |
+| **Excel Projects** | EDA, Data Modeling with Multiple Tables, Pivot tables, DAX measures, interactive dashboards. | Excel | [View Medical Appointment No Shows Analysis Project](https://github.com/marianaprytula/Medical_Appointment_No_Shows_Analysis),<br><br>[View Online Ordering Platform Orders Dataset Analysis Project](https://github.com/marianaprytula/Ding_Tav_Fung_x_Online_Ordering_Platform_Orders_Analysis) |
 
 ---
 
@@ -47,9 +47,9 @@ This repository showcases my projects in data analysis, visualization, and busin
 | Master the theory, practice, and math behind Data Science, Machine Learning, Deep Learning, NLP with end-to-end projects | Udemy | 57% (~56 hours of 99)<br>Focused on the Descriptive and Inferential statistics, Probability theory, Distribution Functions, Feature Engineering, and Machine learning for the classification tasks. |
 
 Examples of a few Power BI Projects done during the courses:
-[View Loan Dataset Analysis](https://github.com/marianaprytula/Loan_dataset_analysis)
-[View Housing Dataset Analysis](https://github.com/marianaprytula/housing_market_dataset_analysis)
-[View T-shirt Brands Dashboard](https://github.com/marianaprytula/T-shirt_Brands_analysis)
+<br><br>[View Loan Dataset Analysis](https://github.com/marianaprytula/Loan_dataset_analysis)
+<br><br>[View Housing Dataset Analysis](https://github.com/marianaprytula/housing_market_dataset_analysis)
+<br><br>[View T-shirt Brands Dashboard](https://github.com/marianaprytula/T-shirt_Brands_analysis)
 
 
 ---
